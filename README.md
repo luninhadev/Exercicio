@@ -1,2 +1,2 @@
-# Exercicio-navegando-por-diretórios
+# Exercicio navegando por diretórios
  
